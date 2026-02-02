@@ -1,0 +1,28 @@
+<Jogo>
+    <EstadoAtual>
+        <row>
+            <col>vmm</col>
+            <col>vms</col>
+            <col>vrs</col>
+            <col>ams</col>
+        </row>
+        <row>
+            <col>vmm</col>
+            <col>vrm</col>
+            <col>amm</col>
+            <col>brs</col>
+        </row>
+        <row>
+            <col>vri</col>
+            <col>vzo</col>
+            <col>amm</col>
+            <col>brm</col>
+        </row>
+        <row>
+            <col>vmi</col>
+            <col>vrm</col>
+            <col>ami</col>
+            <col>bri</col>
+        </row>
+    </EstadoAtual>
+</Jogo>
