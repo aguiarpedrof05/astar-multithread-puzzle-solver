@@ -1,6 +1,6 @@
-# 🇺🇸 English Version
 
-## Elo Maluco Solver | A* Search & Multithreading
+
+# Elo Maluco Solver | A* Search & Multithreading
 This repository contains a high-performance solution for the **"Elo Maluco"** puzzle (a classic 80s logic toy), developed for the *Algorithm Analysis and Design (PAA)* course at **UNIFEI**.
 
 ### 🧠 Technical Overview
